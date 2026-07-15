@@ -6,7 +6,7 @@ int main() {
     std::string name;
 
     // Print message to the console
-    std::cout << "Enter your name, brother ";
+    std::cout << "Enter your name^ ";
     
     // Read input from the user
     std::getline(std::cin, name);
